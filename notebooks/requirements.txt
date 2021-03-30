@@ -72,7 +72,7 @@ ptyprocess==0.6.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pyclipper==1.2.0
-Pygments==2.6.1
+Pygments==2.7.4
 pymorphy2==0.8
 pymorphy2-dicts==2.4.393442.3710985
 pyparsing==2.4.7
